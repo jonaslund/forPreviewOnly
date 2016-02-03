@@ -32,4 +32,4 @@ Step by Step
 13. (Make local version for the screening)
 
 
-## supported by the Lima Collection (www.li-ma.nl/site/article/lima-collection-2015) and the Stimuleringsfonds (http://stimuleringsfonds.nl)
+### supported by the Lima Collection (www.li-ma.nl/site/article/lima-collection-2015) and the Stimuleringsfonds (http://stimuleringsfonds.nl)
