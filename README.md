@@ -1,6 +1,6 @@
 # For Preview Only
 
-All of the ‘For Preview Only’ copies of all the works in the Lima Collection collected and compressed to a 24 hours long video, presented here with time based synchronised playback. 
+All of the ‘For Preview Only’ copies of all the works in the Lima Collection collected and compressed to a 24 hours long video, presented with a time based synchronised playback – http://forpreviewonly.net
 
 lima.js explains the scraping of all the videos, step by step.
 
@@ -32,4 +32,4 @@ Step by Step
 13. (Make local version for the screening)
 
 
-## supported by (www.li-ma.nl/site/article/lima-collection-2015)(lima collection) and the stimuleringsfonds
+## supported by the Lima Collection (www.li-ma.nl/site/article/lima-collection-2015) and the Stimuleringsfonds (http://stimuleringsfonds.nl)
