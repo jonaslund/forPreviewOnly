@@ -30,3 +30,6 @@ Step by Step
 11. Stream captions via websockets
 12. DONE.
 13. (Make local version for the screening)
+
+
+## supported by (www.li-ma.nl/site/article/lima-collection-2015)(lima collection) and the stimuleringsfonds
