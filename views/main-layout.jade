@@ -1,0 +1,22 @@
+doctype html
+html
+  head
+    title For Preview Only, Jonas Lund, 2015
+    link(rel='stylesheet', href='/css/style.css')
+  body
+    block content
+
+  //- script(src="http://forpreviewonly.net/socket.io/socket.io.js")
+  script(src="http://forpreviewonly.net/socket.io/socket.io.js")
+  script(src='/mediaelement/jquery.js')  
+  script(src='/mediaelement/mediaelement-and-player.min.js')
+  script(src='/js/client.js')
+
+  script.
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    //- ga('create', 'UA-2277673-54', 'miamifeels.com');
+    //- ga('send', 'pageview');

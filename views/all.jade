@@ -1,0 +1,7 @@
+html(style='overflow: scroll')
+head
+body(style='overflow: scroll')
+  div#images
+    for image in results
+      a(href='#{image.link}')
+        img(src='#{image.url}')
