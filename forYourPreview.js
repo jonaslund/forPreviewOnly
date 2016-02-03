@@ -135,12 +135,6 @@ initLoop("start");
 /**
  * Secret Preview Link Hash
  */
-
-app.get("/preview/t0asfn15888sdannn", function(req, res) {
-  req.session.preview = "yes";
-  res.redirect("/");
-});
-
 function preview(req, res, next) {  
   return next();
   // var hostname = require("os").hostname();  
