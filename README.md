@@ -6,7 +6,7 @@ lima.js explains the scraping of all the videos, step by step.
 
 # A programmer's solution to video art or the commandline's power for repetetive tasks
 
-Step by Step
+## Step by Step
 
 1. Get index of all works.
     – Analyse website and find a way to get the whole catalogue.
