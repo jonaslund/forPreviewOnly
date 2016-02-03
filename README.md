@@ -4,9 +4,8 @@ All of the ‘For Preview Only’ copies of all the works in the Lima Collection
 
 lima.js explains the scraping of all the videos, step by step.
 
-# A programmer's solution to video art or the commandline's power for repetetive tasks
-
-## Step by Step
+## A programmer's solution to video art or the commandline's power for repetetive tasks
+## Step by Step 
 
 1. Get index of all works.
     – Analyse website and find a way to get the whole catalogue.
